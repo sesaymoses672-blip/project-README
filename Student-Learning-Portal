@@ -1,0 +1,67 @@
+# project-READMEStudent Learning Portal
+
+1. Project Description
+
+The Student Learning Portal is a Python program developed for the PROG211 Object-Oriented Programming 1 assignment. It demonstrates how Object-Oriented Programming can be used to manage student learning records.
+
+2. Project Objectives
+
+* Create and manage student records.
+* Display student information.
+* Search for students by their ID.
+* Update students’ learning progress.
+* Demonstrate Python OOP concepts.
+
+3. Technologies Used
+
+* Python 3
+* Object-Oriented Programming (OOP)
+* Python list data structure
+* GitHub
+
+4. Main Features
+
+* Student registration.
+* Displaying student records.
+* Searching for student records.
+* Updating learning progress.
+* Counting Student objects using a class method.
+
+5. Classes Used
+
+Student
+
+Stores the student’s ID, name, course and learning progress.
+
+LearningPortal
+
+Manages student records using a Python list and provides methods to add, find and display students.
+
+6. How to Run the Program
+
+1. Install Python 3.
+2. Download or clone this repository.
+3. Open the project folder in your terminal.
+4. Run the following command:
+    python main.py
+
+7. Digital Public Goods (DPG) Principles
+
+* Open-source: The code can be shared and reused under its chosen open-source licence.
+* Inclusive design: The program uses simple text output and clear messages.
+* Privacy-respecting: The demonstration uses fictional student records and does not collect sensitive information.
+* Modular and reusable: The program separates student information from portal management using two classes.
+
+8. Limitations
+
+Student records are stored in memory and are not saved after the program closes. The program is a demonstration and does not use a database.
+
+9. Author
+
+Student Name: [Write your name]
+
+Student ID: [Write your student ID]
+
+Programme: Diploma in Information Technology (DIT)
+
+Course Code: PROG211
